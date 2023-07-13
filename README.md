@@ -70,7 +70,8 @@ python redroid.py -w
 This command will add Gapps, Magisk, Libndk, Widevine to the ReDroid image at the same time.
 
 ```bash
-python redroid.py -a 11.0.0 -gmnw
+python redroid.py -a 13.0.0 -gmnw
+
 ```
 
 Then start the docker container.
